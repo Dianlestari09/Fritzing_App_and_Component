@@ -21,17 +21,6 @@ Tujuannya adalah mempermudah proses desain dan simulasi dengan menambahkan kompo
 
 ---
 
-## 🧰 Daftar Komponen Tersedia
-| Nama Komponen | Deskripsi | Kategori |
-|----------------|------------|-----------|
-| ESP32 Custom | Modul mikrokontroler ESP32 dengan pinout lengkap | Microcontroller |
-| BTS7960 Motor Driver | Driver motor DC 43A high power | Driver |
-| GNSS GPS Module | Modul navigasi berbasis satelit (GPS/GLONASS) | Sensor |
-| LoRa Telemetry | Modul komunikasi jarak jauh berbasis LoRa | Communication |
-| Jumper T15 Remote | Komponen representasi remote controller | Control |
-
----
-
 ## 🧩 Tujuan
 Repositori ini dibuat untuk membantu pengguna:
 - Menambahkan **komponen kustom** ke aplikasi Fritzing.
